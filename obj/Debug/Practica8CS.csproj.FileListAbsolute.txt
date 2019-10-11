@@ -1,0 +1,7 @@
+C:\Users\Mario H\source\repos\Practica8CS\bin\Debug\Practica8CS.exe.config
+C:\Users\Mario H\source\repos\Practica8CS\bin\Debug\Practica8CS.exe
+C:\Users\Mario H\source\repos\Practica8CS\bin\Debug\Practica8CS.pdb
+C:\Users\Mario H\source\repos\Practica8CS\obj\Debug\Practica8CS.csprojAssemblyReference.cache
+C:\Users\Mario H\source\repos\Practica8CS\obj\Debug\Practica8CS.csproj.CoreCompileInputs.cache
+C:\Users\Mario H\source\repos\Practica8CS\obj\Debug\Practica8CS.exe
+C:\Users\Mario H\source\repos\Practica8CS\obj\Debug\Practica8CS.pdb
